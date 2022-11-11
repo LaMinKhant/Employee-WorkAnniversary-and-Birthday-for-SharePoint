@@ -6,8 +6,8 @@ https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?v
 
 
 #BI Pages Includes
-1.Main Dashboard
-2.Employee Birthday
-3.Work Anniversary
-4.Age Distribution
+1.Main Dashboard <br>
+2.Employee Birthday<br>
+3.Work Anniversary<br>
+4.Age Distribution<br>
 each page can go using navigation button
